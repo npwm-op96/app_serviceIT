@@ -1,6 +1,11 @@
 # UI 
 
 <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200">
+<img src="https://vuejs.org/images/logo.png" width="200">
+
+<img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" width="200">
+
+
 
 
 <p align="center"><a href="" target="_blank"><img src="https://i.imgur.com/h89zWZD.jpg" width="600"></a></p>
