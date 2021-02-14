@@ -1,15 +1,16 @@
 # UI 
 <div class="row">
- <div class="col-4">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200">
+         <div class="col-4">
+            <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200">
+        </div>
+         <div class="col-4">
+        <img src="https://vuejs.org/images/logo.png" width="50">
+        </div>
+         <div class="col-4">
+        <img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" width="40">
+        </div>
 </div>
- <div class="col-4">
-<img src="https://vuejs.org/images/logo.png" width="50">
-</div>
- <div class="col-4">
-<img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" width="40">
-</div>
-</div>
+</br>
 
 
 
